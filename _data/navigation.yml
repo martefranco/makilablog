@@ -3,7 +3,7 @@ main:
   - title: "Acerca de"
     url: /about/
   -title: "Flows 365"
-    url:  /microsoft-flows/
+    url:  /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
