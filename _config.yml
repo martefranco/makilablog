@@ -107,8 +107,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Martín Eduardo Jimenez Franco"
-  avatar           : "/images/IMG_20180526_085346.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Marte FRanco"
+  avatar           : "/images/IMG_20180521_175722.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Experto en infraestruras en sitio."
   location         : "CDMX, México"
   email            :
